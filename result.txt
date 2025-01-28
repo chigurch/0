@@ -1,5 +1,6 @@
 📺综合,#genre#
 CCTV-1,http://114.95.156.205:4022/rtp/239.45.3.145:5140
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 CCTV-1,http://114.246.181.146:4022/rtp/239.3.1.129:8008
 CCTV-1,http://112.255.69.58:6666/rtp/239.253.254.77:8000
 CCTV-1,http://114.252.236.205:8000/rtp/239.3.1.129:8008
@@ -9,6 +10,7 @@ CCTV-1,http://nas.hssvm.com:8888/udp/225.1.1.120:5002
 CCTV-1,http://183.66.15.138:4070/rtp/235.254.198.51:1480
 CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 CCTV-1,http://49.79.3.119:8890/rtp/239.49.8.129:6000
+CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-2,http://114.95.156.205:4022/rtp/239.45.1.109:5140
 CCTV-2,http://114.246.181.146:4022/rtp/239.3.1.60:8084
 CCTV-2,http://112.255.69.58:6666/rtp/239.253.254.232:8000
@@ -29,6 +31,7 @@ CCTV-3,http://111.175.30.248:8848/rtp/239.69.1.122:10370
 CCTV-3,http://nas.hssvm.com:8888/udp/225.1.1.158:5002
 CCTV-3,http://183.66.15.138:4070/rtp/235.254.198.141:1842
 CCTV-3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 CCTV-4,http://114.95.156.205:4022/rtp/239.45.0.2:5140
 CCTV-4,https://tvpull.careryun.com/tv/cctv4.m3u8
 CCTV-4,http://114.246.181.146:4022/rtp/239.3.1.105:8092
@@ -109,6 +112,7 @@ CCTV-10,http://nas.hssvm.com:8888/udp/225.1.1.140:5002
 CCTV-10,http://183.66.15.138:4070/rtp/235.254.198.59:1512
 CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.75:11111
 CCTV-10,http://49.79.3.119:8890/rtp/239.49.8.134:6000
+CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11,http://114.95.156.205:4022/rtp/239.45.1.196:5140
 CCTV-11,http://114.246.181.146:4022/rtp/239.3.1.152:8120
 CCTV-11,http://112.255.69.58:6666/rtp/239.253.254.169:8000
